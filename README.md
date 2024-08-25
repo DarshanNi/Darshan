@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BabuBhai111
+- 👋 Hi, I’m @darshanNi
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning BSc-IT.
 - 💞️ I’m looking to collaborate on public.
